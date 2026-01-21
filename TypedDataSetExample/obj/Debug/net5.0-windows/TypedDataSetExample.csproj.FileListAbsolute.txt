@@ -1,0 +1,58 @@
+D:\OneDrive - Sheridan College\Visual Studio 2022 Projects\2022-Winter\TypedDataSetExample\TypedDataSetExample\obj\Debug\net5.0-windows\TypedDataSetExample.csproj.AssemblyReference.cache
+D:\OneDrive - Sheridan College\Visual Studio 2022 Projects\2022-Winter\TypedDataSetExample\TypedDataSetExample\obj\Debug\net5.0-windows\MainWindow.g.cs
+D:\OneDrive - Sheridan College\Visual Studio 2022 Projects\2022-Winter\TypedDataSetExample\TypedDataSetExample\obj\Debug\net5.0-windows\App.g.cs
+D:\OneDrive - Sheridan College\Visual Studio 2022 Projects\2022-Winter\TypedDataSetExample\TypedDataSetExample\obj\Debug\net5.0-windows\TypedDataSetExample_MarkupCompile.cache
+D:\OneDrive - Sheridan College\Visual Studio 2022 Projects\2022-Winter\TypedDataSetExample\TypedDataSetExample\obj\Debug\net5.0-windows\TypedDataSetExample_MarkupCompile.lref
+D:\OneDrive - Sheridan College\Visual Studio 2022 Projects\2022-Winter\TypedDataSetExample\TypedDataSetExample\bin\Debug\net5.0-windows\TypedDataSetExample.exe
+D:\OneDrive - Sheridan College\Visual Studio 2022 Projects\2022-Winter\TypedDataSetExample\TypedDataSetExample\bin\Debug\net5.0-windows\TypedDataSetExample.deps.json
+D:\OneDrive - Sheridan College\Visual Studio 2022 Projects\2022-Winter\TypedDataSetExample\TypedDataSetExample\bin\Debug\net5.0-windows\TypedDataSetExample.runtimeconfig.json
+D:\OneDrive - Sheridan College\Visual Studio 2022 Projects\2022-Winter\TypedDataSetExample\TypedDataSetExample\bin\Debug\net5.0-windows\TypedDataSetExample.runtimeconfig.dev.json
+D:\OneDrive - Sheridan College\Visual Studio 2022 Projects\2022-Winter\TypedDataSetExample\TypedDataSetExample\bin\Debug\net5.0-windows\TypedDataSetExample.dll
+D:\OneDrive - Sheridan College\Visual Studio 2022 Projects\2022-Winter\TypedDataSetExample\TypedDataSetExample\bin\Debug\net5.0-windows\TypedDataSetExample.pdb
+D:\OneDrive - Sheridan College\Visual Studio 2022 Projects\2022-Winter\TypedDataSetExample\TypedDataSetExample\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\OneDrive - Sheridan College\Visual Studio 2022 Projects\2022-Winter\TypedDataSetExample\TypedDataSetExample\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\OneDrive - Sheridan College\Visual Studio 2022 Projects\2022-Winter\TypedDataSetExample\TypedDataSetExample\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\OneDrive - Sheridan College\Visual Studio 2022 Projects\2022-Winter\TypedDataSetExample\TypedDataSetExample\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\OneDrive - Sheridan College\Visual Studio 2022 Projects\2022-Winter\TypedDataSetExample\TypedDataSetExample\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\OneDrive - Sheridan College\Visual Studio 2022 Projects\2022-Winter\TypedDataSetExample\TypedDataSetExample\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\OneDrive - Sheridan College\Visual Studio 2022 Projects\2022-Winter\TypedDataSetExample\TypedDataSetExample\obj\Debug\net5.0-windows\MainWindow.baml
+D:\OneDrive - Sheridan College\Visual Studio 2022 Projects\2022-Winter\TypedDataSetExample\TypedDataSetExample\obj\Debug\net5.0-windows\TypedDataSetExample.g.resources
+D:\OneDrive - Sheridan College\Visual Studio 2022 Projects\2022-Winter\TypedDataSetExample\TypedDataSetExample\obj\Debug\net5.0-windows\TypedDataSetExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - Sheridan College\Visual Studio 2022 Projects\2022-Winter\TypedDataSetExample\TypedDataSetExample\obj\Debug\net5.0-windows\TypedDataSetExample.AssemblyInfoInputs.cache
+D:\OneDrive - Sheridan College\Visual Studio 2022 Projects\2022-Winter\TypedDataSetExample\TypedDataSetExample\obj\Debug\net5.0-windows\TypedDataSetExample.AssemblyInfo.cs
+D:\OneDrive - Sheridan College\Visual Studio 2022 Projects\2022-Winter\TypedDataSetExample\TypedDataSetExample\obj\Debug\net5.0-windows\TypedDataSetExample.csproj.CoreCompileInputs.cache
+D:\OneDrive - Sheridan College\Visual Studio 2022 Projects\2022-Winter\TypedDataSetExample\TypedDataSetExample\obj\Debug\net5.0-windows\TypedDataSetExample.csproj.CopyComplete
+D:\OneDrive - Sheridan College\Visual Studio 2022 Projects\2022-Winter\TypedDataSetExample\TypedDataSetExample\obj\Debug\net5.0-windows\TypedDataSetExample.dll
+D:\OneDrive - Sheridan College\Visual Studio 2022 Projects\2022-Winter\TypedDataSetExample\TypedDataSetExample\obj\Debug\net5.0-windows\refint\TypedDataSetExample.dll
+D:\OneDrive - Sheridan College\Visual Studio 2022 Projects\2022-Winter\TypedDataSetExample\TypedDataSetExample\obj\Debug\net5.0-windows\TypedDataSetExample.pdb
+D:\OneDrive - Sheridan College\Visual Studio 2022 Projects\2022-Winter\TypedDataSetExample\TypedDataSetExample\obj\Debug\net5.0-windows\TypedDataSetExample.genruntimeconfig.cache
+D:\OneDrive - Sheridan College\Visual Studio 2022 Projects\2022-Winter\TypedDataSetExample\TypedDataSetExample\obj\Debug\net5.0-windows\ref\TypedDataSetExample.dll
+C:\Users\Admin\Desktop\Sheridan\C#\TypedDataSetExample\TypedDataSetExample\bin\Debug\net5.0-windows\TypedDataSetExample.exe
+C:\Users\Admin\Desktop\Sheridan\C#\TypedDataSetExample\TypedDataSetExample\bin\Debug\net5.0-windows\TypedDataSetExample.deps.json
+C:\Users\Admin\Desktop\Sheridan\C#\TypedDataSetExample\TypedDataSetExample\bin\Debug\net5.0-windows\TypedDataSetExample.runtimeconfig.json
+C:\Users\Admin\Desktop\Sheridan\C#\TypedDataSetExample\TypedDataSetExample\bin\Debug\net5.0-windows\TypedDataSetExample.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Sheridan\C#\TypedDataSetExample\TypedDataSetExample\bin\Debug\net5.0-windows\TypedDataSetExample.dll
+C:\Users\Admin\Desktop\Sheridan\C#\TypedDataSetExample\TypedDataSetExample\bin\Debug\net5.0-windows\TypedDataSetExample.pdb
+C:\Users\Admin\Desktop\Sheridan\C#\TypedDataSetExample\TypedDataSetExample\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\Sheridan\C#\TypedDataSetExample\TypedDataSetExample\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Admin\Desktop\Sheridan\C#\TypedDataSetExample\TypedDataSetExample\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Admin\Desktop\Sheridan\C#\TypedDataSetExample\TypedDataSetExample\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Admin\Desktop\Sheridan\C#\TypedDataSetExample\TypedDataSetExample\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\Sheridan\C#\TypedDataSetExample\TypedDataSetExample\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\Sheridan\C#\TypedDataSetExample\TypedDataSetExample\obj\Debug\net5.0-windows\TypedDataSetExample.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Sheridan\C#\TypedDataSetExample\TypedDataSetExample\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Admin\Desktop\Sheridan\C#\TypedDataSetExample\TypedDataSetExample\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Admin\Desktop\Sheridan\C#\TypedDataSetExample\TypedDataSetExample\obj\Debug\net5.0-windows\TypedDataSetExample_MarkupCompile.cache
+C:\Users\Admin\Desktop\Sheridan\C#\TypedDataSetExample\TypedDataSetExample\obj\Debug\net5.0-windows\TypedDataSetExample_MarkupCompile.lref
+C:\Users\Admin\Desktop\Sheridan\C#\TypedDataSetExample\TypedDataSetExample\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Admin\Desktop\Sheridan\C#\TypedDataSetExample\TypedDataSetExample\obj\Debug\net5.0-windows\TypedDataSetExample.g.resources
+C:\Users\Admin\Desktop\Sheridan\C#\TypedDataSetExample\TypedDataSetExample\obj\Debug\net5.0-windows\TypedDataSetExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Sheridan\C#\TypedDataSetExample\TypedDataSetExample\obj\Debug\net5.0-windows\TypedDataSetExample.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Sheridan\C#\TypedDataSetExample\TypedDataSetExample\obj\Debug\net5.0-windows\TypedDataSetExample.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Sheridan\C#\TypedDataSetExample\TypedDataSetExample\obj\Debug\net5.0-windows\TypedDataSetExample.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Sheridan\C#\TypedDataSetExample\TypedDataSetExample\obj\Debug\net5.0-windows\TypedDataSetExample.csproj.CopyComplete
+C:\Users\Admin\Desktop\Sheridan\C#\TypedDataSetExample\TypedDataSetExample\obj\Debug\net5.0-windows\TypedDataSetExample.dll
+C:\Users\Admin\Desktop\Sheridan\C#\TypedDataSetExample\TypedDataSetExample\obj\Debug\net5.0-windows\refint\TypedDataSetExample.dll
+C:\Users\Admin\Desktop\Sheridan\C#\TypedDataSetExample\TypedDataSetExample\obj\Debug\net5.0-windows\TypedDataSetExample.pdb
+C:\Users\Admin\Desktop\Sheridan\C#\TypedDataSetExample\TypedDataSetExample\obj\Debug\net5.0-windows\TypedDataSetExample.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Sheridan\C#\TypedDataSetExample\TypedDataSetExample\obj\Debug\net5.0-windows\ref\TypedDataSetExample.dll
